@@ -1,6 +1,16 @@
 # Pilvipalvelut_Bundle_E
 ## Pilvipalvelut kurssin lisätehtävä viikolle 2, Bundle E
 
+- Sed
+- efficitur
+- congue
+- lectus
+- sed tempor
+
+- [x] Tehty :+1:
+- [] Tekemättä
+- [] Tulossa 
+
 **Lorem ipsum dolor sit amet**, consectetur adipiscing elit. Quisque suscipit semper consectetur. Integer dictum odio fermentum ante sollicitudin malesuada. Donec vitae massa leo. Ut ut vehicula purus, ac tempus neque. Quisque augue libero, fringilla id magna et, egestas posuere est. Donec sit amet tellus est. Vivamus sapien ligula, sagittis ac nisi et, imperdiet interdum elit. Nulla congue efficitur aliquam. Suspendisse tortor ante, ultricies non sem sed, accumsan consectetur mauris.
 
 *Phasellus gravida maximus mauris at tincidunt. Fusce consectetur ac risus at facilisis. In egestas posuere dui sit amet tincidunt. Nunc fringilla ipsum vel libero fringilla, quis laoreet nisl rhoncus. Integer aliquam nisi odio, non scelerisque magna interdum nec. Nam vel euismod erat. Pellentesque tempus sit amet eros non molestie.*
