@@ -12,3 +12,5 @@
 Pellentesque volutpat purus sed lacus facilisis porttitor. Quisque non sem a nunc suscipit ultrices. Ut tellus augue, congue a eros at, luctus ornare mi. Fusce dapibus urna a dui blandit tempus. Nam mollis mollis tristique. Donec id auctor lectus, et ornare velit. Vivamus sit amet tellus vitae enim rutrum feugiat. Fusce commodo magna sed malesuada consequat. Nullam pulvinar tortor sit amet libero gravida convallis. Praesent ut odio nisi. Aliquam erat volutpat. Pellentesque dui est, accumsan id eros id, tempor aliquet odio. Vestibulum eget quam ac ex vestibulum varius. Aenean lobortis libero eu erat hendrerit convallis. Integer a sollicitudin risus.
 
 This site was built using [GitHub Pages](https://pages.github.com/).
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
